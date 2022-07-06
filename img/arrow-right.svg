@@ -1,0 +1,15 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 74" width="78" height="74">
+	<title>Group 180</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #ffffff } 
+		.s1 { fill: none;stroke: #2d74ff;stroke-width: 3 } 
+	</style>
+	<g id="Group 180">
+		<path id="Ellipse 9" class="s0" d="m38 71c-19.91 0-36-16.09-36-36c0-19.91 16.09-36 36-36c19.91 0 36 16.09 36 36c0 19.91-16.09 36-36 36z" />
+		<g id="Group 12">
+			<path id="Vector" class="s1" d="m48 35h-20" />
+			<path id="Vector" class="s1" d="m41 28l7 7l-7 7" />
+		</g>
+	</g>
+</svg>

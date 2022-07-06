@@ -1,0 +1,15 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+	<title>Group 179</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { opacity: .5;fill: #f4f4f4 } 
+		.s1 { fill: none;stroke: #2d74ff;stroke-width: 3 } 
+	</style>
+	<g id="Group 179">
+		<path id="Ellipse 8" class="s0" d="m36 72c-19.91 0-36-16.09-36-36c0-19.91 16.09-36 36-36c19.91 0 36 16.09 36 36c0 19.91-16.09 36-36 36z" />
+		<g id="Group 11" style="opacity: .5">
+			<path id="Vector" class="s1" d="m26 36h20" />
+			<path id="Vector" class="s1" d="m33 43l-7-7l7-7" />
+		</g>
+	</g>
+</svg>

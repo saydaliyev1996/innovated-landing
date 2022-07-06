@@ -1,0 +1,84 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+	<title>Group 88</title>
+	<defs>
+		<radialGradient id="grd1" gradientUnits="userSpaceOnUse"  cx="4.1" cy="17.5" r="22.1">
+			<stop offset="0" stop-color="#fae100"  />
+			<stop offset=".1" stop-color="#fadc04"  />
+			<stop offset=".1" stop-color="#fbce0e"  />
+			<stop offset=".2" stop-color="#fcb720"  />
+			<stop offset=".3" stop-color="#fe9838"  />
+			<stop offset=".3" stop-color="#ff7950"  />
+			<stop offset=".5" stop-color="#ff1c74"  />
+			<stop offset="1" stop-color="#6c1cd1"  />
+		</radialGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="7.7" y1="8.7" x2="-25.7" y2="-10.1">
+			<stop offset="0" stop-color="#a1b5d8" stop-opacity="0" />
+			<stop offset=".3" stop-color="#90a2bd" stop-opacity=".3" />
+			<stop offset=".8" stop-color="#7c8b9c" stop-opacity=".8" />
+			<stop offset="1" stop-color="#748290"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="10" y1="17.7" x2="10" y2="20.8">
+			<stop offset="0" stop-color="#fae100" stop-opacity="0" />
+			<stop offset=".3" stop-color="#fca800" stop-opacity=".3" />
+			<stop offset=".6" stop-color="#fe7300" stop-opacity=".6" />
+			<stop offset=".9" stop-color="#ff5200" stop-opacity=".9" />
+			<stop offset="1" stop-color="#ff4500"  />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="9.3" y1="9.4" x2="4.6" y2="4.6">
+			<stop offset="0" stop-color="#833ab4" stop-opacity="0" />
+			<stop offset="1" stop-color="#833ab4"  />
+		</linearGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="14.1" y1="18.4" x2="11.7" y2="7.4">
+			<stop offset="0" stop-color="#833ab4" stop-opacity="0" />
+			<stop offset="1" stop-color="#833ab4"  />
+		</linearGradient>
+		<linearGradient id="grd6" gradientUnits="userSpaceOnUse"  x1="14.8" y1="14.8" x2="5.6" y2="5.6">
+			<stop offset="0" stop-color="#833ab4" stop-opacity="0" />
+			<stop offset="1" stop-color="#833ab4"  />
+		</linearGradient>
+		<linearGradient id="grd7" gradientUnits="userSpaceOnUse"  x1="15.7" y1="9.1" x2="12.7" y2="6">
+			<stop offset="0" stop-color="#833ab4" stop-opacity="0" />
+			<stop offset="1" stop-color="#833ab4"  />
+		</linearGradient>
+		<linearGradient id="grd8" gradientUnits="userSpaceOnUse"  x1="13.5" y1="6.5" x2="6.4" y2="13.7">
+			<stop offset="0" stop-color="#833ab4"  />
+			<stop offset=".1" stop-color="#9c3495"  />
+			<stop offset=".3" stop-color="#dc2546"  />
+			<stop offset=".4" stop-color="#fd1d1d"  />
+			<stop offset=".6" stop-color="#fc6831"  />
+			<stop offset=".7" stop-color="#fc9b40"  />
+			<stop offset=".8" stop-color="#fcaf45"  />
+			<stop offset=".8" stop-color="#fdb750"  />
+			<stop offset=".9" stop-color="#fecb6a"  />
+			<stop offset=".9" stop-color="#ffd87a"  />
+			<stop offset="1" stop-color="#ffdc80"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: url(#grd1) } 
+		.s1 { fill: url(#grd2) } 
+		.s2 { fill: url(#grd3) } 
+		.s3 { fill: url(#grd4) } 
+		.s4 { fill: url(#grd5) } 
+		.s5 { fill: url(#grd6) } 
+		.s6 { fill: url(#grd7) } 
+		.s7 { fill: url(#grd8) } 
+		.s8 { fill: #ffffff } 
+	</style>
+	<g id="Group 88">
+		<path id="Vector" class="s0" d="m19.66 3.58c0.46 4.28 0.46 8.57 0 12.84c-0.18 1.71-1.53 3.05-3.23 3.23c-4.28 0.46-8.57 0.46-12.85 0c-1.71-0.18-3.05-1.53-3.23-3.23c-0.46-4.28-0.46-8.57 0-12.84c0.18-1.71 1.53-3.05 3.23-3.23c4.28-0.46 8.57-0.46 12.85 0c1.71 0.18 3.05 1.53 3.23 3.23v0z" />
+		<path id="Vector" class="s1" d="m18.57 4.3c0.41 3.8 0.41 7.6 0 11.4c-0.16 1.51-1.36 2.71-2.87 2.87c-3.8 0.4-7.6 0.4-11.4 0c-1.51-0.16-2.71-1.36-2.87-2.87c-0.41-3.8-0.41-7.6 0-11.4c0.16-1.51 1.36-2.71 2.87-2.87c3.8-0.4 7.6-0.4 11.4 0c1.51 0.16 2.71 1.36 2.87 2.87v0z" />
+		<path id="Vector" class="s2" d="m19.7 16.01c-0.01 0.14-0.03 0.28-0.04 0.41c-0.18 1.71-1.53 3.05-3.23 3.23c-4.28 0.46-8.57 0.46-12.85 0c-1.71-0.18-3.05-1.53-3.23-3.23c-0.01-0.14-0.03-0.28-0.04-0.41h19.4z" />
+		<path id="Vector" class="s3" d="m19.66 16.42c-0.18 1.71-1.53 3.05-3.23 3.23c-2.28 0.24-4.56 0.36-6.85 0.34l-4.65-4.65c-0.66-0.58-1.08-1.44-1.14-2.45c-0.01-0.16-0.04-0.31-0.07-0.47v-4.85c0.04-0.29 0.07-0.59 0.13-0.88c0.3-1.65 1.47-2.78 3.15-2.84c2.02-0.07 4.04-0.07 6.05 0c0.98 0.04 1.81 0.44 2.39 1.09l4.57 4.57c0.02 2.3-0.09 4.6-0.34 6.9v0z" />
+		<path id="Vector" class="s4" d="m19.66 16.42c-0.18 1.71-1.53 3.05-3.23 3.23c-2.28 0.24-4.56 0.36-6.85 0.34l-4.65-4.64c0.54 0.47 1.24 0.76 2.05 0.79c2.02 0.08 4.04 0.07 6.05 0c1.82-0.07 3.14-1.42 3.2-3.24c0.06-1.94 0.06-3.88 0-5.81c-0.03-0.84-0.32-1.58-0.81-2.14l4.57 4.57c0.02 2.3-0.1 4.6-0.34 6.9z" />
+		<path id="Vector" class="s5" d="m19.77 15.25c-0.03 0.39-0.07 0.78-0.11 1.18c-0.18 1.71-1.53 3.05-3.23 3.23c-0.39 0.04-0.78 0.08-1.18 0.11l-7.41-7.41c-0.64-0.59-1.04-1.43-1.04-2.36c0-1.77 1.43-3.2 3.2-3.2c0.93 0 1.77 0.4 2.36 1.04l7.41 7.41z" />
+		<path id="Vector" class="s6" d="m19.96 12.15c-0.02 0.68-0.06 1.35-0.11 2.03l-6.93-6.92c-0.18-0.14-0.3-0.36-0.3-0.61c0-0.42 0.34-0.76 0.76-0.76c0.25 0 0.47 0.12 0.61 0.3l5.96 5.96v0z" />
+		<path id="Vector" fill-rule="evenodd" class="s7" d="m3.84 6.69c0.3-1.65 1.47-2.78 3.15-2.84c2.02-0.07 4.04-0.07 6.05 0c1.82 0.07 3.14 1.42 3.2 3.24c0.06 1.94 0.06 3.88 0 5.81c-0.06 1.82-1.38 3.17-3.2 3.24c-2.02 0.07-4.04 0.07-6.05 0c-1.82-0.07-3.08-1.42-3.2-3.25c-0.01-0.16-0.04-0.31-0.07-0.47c0-1.62 0-3.23 0-4.85c0.04-0.29 0.07-0.59 0.13-0.88zm8.93 8.36c1.44-0.05 2.33-0.92 2.37-2.36c0.04-1.8 0.04-3.6 0-5.4c-0.03-1.44-0.92-2.33-2.37-2.36c-1.83-0.04-3.67-0.04-5.5 0c-1.43 0.03-2.32 0.89-2.36 2.32c-0.05 1.82-0.05 3.65 0 5.47c0.04 1.43 0.93 2.27 2.36 2.32c0.91 0.03 1.82 0.01 2.73 0.01c0.92 0 1.85 0.03 2.77-0.01z" />
+		<g id="Group">
+			<path id="Vector" fill-rule="evenodd" class="s8" d="m3.84 6.69c0.3-1.65 1.47-2.78 3.15-2.84c2.02-0.07 4.04-0.07 6.05 0c1.82 0.07 3.14 1.42 3.2 3.24c0.06 1.94 0.06 3.88 0 5.81c-0.06 1.82-1.38 3.17-3.2 3.24c-2.02 0.07-4.04 0.07-6.05 0c-1.82-0.07-3.08-1.42-3.2-3.25c-0.01-0.16-0.04-0.31-0.07-0.47c0-1.62 0-3.23 0-4.85c0.04-0.29 0.07-0.59 0.13-0.88zm8.93 8.36c1.44-0.05 2.33-0.92 2.37-2.36c0.04-1.8 0.04-3.6 0-5.4c-0.03-1.44-0.92-2.33-2.37-2.36c-1.83-0.04-3.67-0.04-5.5 0c-1.43 0.03-2.32 0.89-2.36 2.32c-0.05 1.82-0.05 3.65 0 5.47c0.04 1.43 0.93 2.27 2.36 2.32c0.91 0.03 1.82 0.01 2.73 0.01c0.92 0 1.85 0.03 2.77-0.01z" />
+			<path id="Vector" fill-rule="evenodd" class="s8" d="m13.2 10c0 1.77-1.43 3.2-3.2 3.2c-1.77 0-3.2-1.43-3.2-3.2c0-1.77 1.43-3.2 3.2-3.2c1.77 0 3.2 1.43 3.2 3.2zm-1.1 0c0-1.16-0.94-2.1-2.1-2.1c-1.16 0-2.1 0.94-2.1 2.1c0 1.16 0.94 2.1 2.1 2.1c1.16 0 2.1-0.94 2.1-2.1z" />
+			<path id="Vector" class="s8" d="m14.15 6.65c0 0.42-0.34 0.76-0.76 0.76c-0.42 0-0.76-0.34-0.76-0.76c0-0.42 0.34-0.76 0.76-0.76c0.42 0 0.76 0.34 0.76 0.76z" />
+		</g>
+	</g>
+</svg>
